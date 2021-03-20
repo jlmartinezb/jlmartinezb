@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jlmartinezb
-- 👀 I’m interested in software architectute, design software solutions, Large 
+- 👀 I’m interested in software architectute, design software solutions, Large solutions
 - 🌱 I’m currently learning kafka, spring boot, phyton, data analysis
-- 💞️ I’m looking to collaborate on design enterprise archirtecture, and technical, functional and bussines point of view
+- 💞️ I’m looking to collaborate on design enterprise architecture, and technical, functional and bussines point of view
 - 📫 How to reach me jolumabu@proton.mail
 
 <!---
